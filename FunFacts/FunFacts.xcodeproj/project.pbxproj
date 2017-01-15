@@ -12,6 +12,7 @@
 		B1E22A461E19AEF7008F0448 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1E22A441E19AEF7008F0448 /* Main.storyboard */; };
 		B1E22A481E19AEF7008F0448 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B1E22A471E19AEF7008F0448 /* Assets.xcassets */; };
 		B1E22A4B1E19AEF7008F0448 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1E22A491E19AEF7008F0448 /* LaunchScreen.storyboard */; };
+		B1E22A531E1AA9B2008F0448 /* FactProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E22A521E1AA9B2008F0448 /* FactProvider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B1E22A471E19AEF7008F0448 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B1E22A4A1E19AEF7008F0448 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B1E22A4C1E19AEF7008F0448 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B1E22A521E1AA9B2008F0448 /* FactProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FactProvider.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				B1E22A401E19AEF7008F0448 /* AppDelegate.swift */,
 				B1E22A421E19AEF7008F0448 /* ViewController.swift */,
+				B1E22A521E1AA9B2008F0448 /* FactProvider.swift */,
 				B1E22A441E19AEF7008F0448 /* Main.storyboard */,
 				B1E22A471E19AEF7008F0448 /* Assets.xcassets */,
 				B1E22A491E19AEF7008F0448 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				B1E22A431E19AEF7008F0448 /* ViewController.swift in Sources */,
 				B1E22A411E19AEF7008F0448 /* AppDelegate.swift in Sources */,
+				B1E22A531E1AA9B2008F0448 /* FactProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -297,6 +301,7 @@
 				B1E22A511E19AEF7008F0448 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
