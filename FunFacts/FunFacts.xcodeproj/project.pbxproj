@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B1CFB4921E2C3DFC0038AEE4 /* BackgroundColorProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1CFB4911E2C3DFC0038AEE4 /* BackgroundColorProvider.swift */; };
 		B1E22A411E19AEF7008F0448 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E22A401E19AEF7008F0448 /* AppDelegate.swift */; };
 		B1E22A431E19AEF7008F0448 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B1E22A421E19AEF7008F0448 /* ViewController.swift */; };
 		B1E22A461E19AEF7008F0448 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B1E22A441E19AEF7008F0448 /* Main.storyboard */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B1CFB4911E2C3DFC0038AEE4 /* BackgroundColorProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BackgroundColorProvider.swift; sourceTree = "<group>"; };
 		B1E22A3D1E19AEF7008F0448 /* FunFacts.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FunFacts.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1E22A401E19AEF7008F0448 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B1E22A421E19AEF7008F0448 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				B1E22A471E19AEF7008F0448 /* Assets.xcassets */,
 				B1E22A491E19AEF7008F0448 /* LaunchScreen.storyboard */,
 				B1E22A4C1E19AEF7008F0448 /* Info.plist */,
+				B1CFB4911E2C3DFC0038AEE4 /* BackgroundColorProvider.swift */,
 			);
 			path = FunFacts;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			files = (
 				B1E22A431E19AEF7008F0448 /* ViewController.swift in Sources */,
 				B1E22A411E19AEF7008F0448 /* AppDelegate.swift in Sources */,
+				B1CFB4921E2C3DFC0038AEE4 /* BackgroundColorProvider.swift in Sources */,
 				B1E22A531E1AA9B2008F0448 /* FactProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
